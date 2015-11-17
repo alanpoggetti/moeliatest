@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">moeliatest</string>
+    <string name="launchImageUrl">https://pbs.twimg.com/profile_images/378800000405182047/31e6f42c1b1f5ee9222a856f43dbe328_400x400.png</string>
+    <string name="add_movie_dialog_title">Enter movie title</string>
+    <string name="add_movie_dialog_negative">Cancel</string>
+    <string name="add_movie_dialog_positive">Search and add</string>
+    <string name="movie_fetch_url"><![CDATA[http://www.myapifilms.com/imdb?title=\"[TITLE]\"&format=JSON]]></string>
+    <string name="progress_dialog_title">Please wait</string>
+    <string name="progress_dialog_message">Connection in progress</string>
+    <string name="no_results_dialog_title">Sorry!</string>
+    <string name="no_results_dialog_message">No results were found for your query</string>
+    <string name="no_results_dialog_add_another">Add another</string>
+    <string name="no_results_dialog_negative">Cancel</string>
+</resources>
